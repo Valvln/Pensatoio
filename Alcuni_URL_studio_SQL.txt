@@ -1,0 +1,9 @@
+https://www.databasestar.com/sql-views/#What_is_a_Materialized_View
+
+https://www.kaggle.com/code/alexisbcook/analytic-functions
+
+https://www.kaggle.com/code/dansbecker/as-with/tutorial
+
+https://www.sqlservertutorial.net/sql-server-basics/sql-server-like/
+
+https://www.techonthenet.com/sql/count.php
